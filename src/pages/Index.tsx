@@ -1,12 +1,16 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import Wishlist from '@/components/Wishlist';
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
+    <div className="min-h-screen pb-16 px-4 md:px-6">
+      <div className="max-w-3xl mx-auto pt-12 pb-6">
+        <h1 className="text-3xl font-bold mb-2 text-center">My Wishlist</h1>
+        <p className="text-muted-foreground text-center mb-8">
+          Keep track of all your wishes in one place
+        </p>
       </div>
+      <Wishlist />
     </div>
   );
 };

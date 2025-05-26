@@ -24,8 +24,7 @@ The fastest way to edit:
 
 ---
 
-### 2. Edit Locally with Your IDE
-
+### 2. Edit Locally with Your ID
 > **Prerequisites:** Node.js and npm installed (recommended to use [nvm](https://github.com/nvm-sh/nvm))
 
 #### Steps:

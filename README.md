@@ -7,7 +7,7 @@ Welcome to your **Lovable project** – a sleek and modern to-do app built with 
 
 ---
 
-## 🚀 Project Inf
+## 🚀 Project Info
 
 This is a feature-rich to-do application that helps you manage tasks efficiently, designed and deployed using [Lovable](https://lovable.dev). All changes are synced with Git and can be edited via your preferred workflow.
 

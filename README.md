@@ -1,4 +1,4 @@
-# 📝 To-Do App – Lovable Projecs
+# 📝 To-Do App – Lovable Projects
 
 Welcome to your **Lovable project** – a sleek and modern to-do app built with Vite, TypeScript, React, Tailwind CSS, and shadcn-ui.
 

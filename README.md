@@ -19,7 +19,7 @@ This is a feature-rich to-do application that helps you manage tasks efficiently
 The fastest way to edit:
 - Simply visit the [Lovable Project](https://lovable.dev/projects/73f6345d-0b1c-4b5a-9911-19cb3cb71296)
 - Start prompting to edit
-- All changes will be auto-committed to this GitHub repository
+- All changes will be auto-committed to this GitHub repo
 
 ---
 
